@@ -3,8 +3,8 @@
 ### Facial feature detection using Dlib
 
 #### The face detection algorithm  is in Python with the use of Dlib. The two face detection models used are:
-1. Histogram of Oriented Gradients using Dlib
-2. Convolutional Neural Networks using Dlib
+1. Histogram of Oriented Gradients using Dlib (HOG)
+2. Convolutional Neural Networks using Dlib (MMOD)
 
 ##### Histogram of Oriented Gradients (HOG) in Dlib: The idea behind HOG is to extract features into a vector, and feed it into a classification algorithm like a Support Vector Machine for example that will assess whether a face (or any object you train it to recognize actually) is present in a region or not.
 
