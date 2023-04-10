@@ -2,7 +2,7 @@
 
 ### Facial feature detection using Dlib
 
-#### The face detection algorithm  is in Python with the use of Dlib. The two face detection models used are:
+#### The face detection algorithm  is in Python with the use of Dlib. The two object detection models used are:
 1. Histogram of Oriented Gradients using Dlib (HOG)
 2. Convolutional Neural Networks using Dlib (MMOD)
 
